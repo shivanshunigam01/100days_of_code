@@ -34,9 +34,12 @@
 
 [![JAVA][JAVA]][JAVA-url]
 
-## 👉🏼 Links
+## 👉🏼 keep connected 
 
-[100k CODING CHALLENGE](https://www.youtube.com/watch?v=pDmEYRhyusU&list=PLY-ecO2csVHeKaBI7lAM1jbIPU8K6fUxY)
+<h6>fa fa-linkedin-square</h1>
+
+<i class="fa fa-linkedin-square" style="font-size:48px;color:red"></i>
+<br>[LinkedIn](https://www.linkedin.com/in/shivanshu-nigam-9a3223219)</h6>
 
 <hr>
 
