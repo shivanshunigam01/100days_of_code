@@ -36,7 +36,7 @@
 
 ## 👉🏼 keep connected 
 
-<h6>fa fa-linkedin-square</h1>
+<h6>
 
 <i class="fa fa-linkedin-square" style="font-size:48px;color:red"></i>
 <br>[LinkedIn](https://www.linkedin.com/in/shivanshu-nigam-9a3223219)</h6>
