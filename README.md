@@ -39,7 +39,7 @@
 <h6>
 
 <i class="fa fa-linkedin-square" style="font-size:48px;color:red"></i>
-<br>[LinkedIn]:https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Flinkedin-social-media-logo-linkedin-social-media-logo-vector-format-available-illustrator-ai-image122266344&psig=AOvVaw12HFSV_d2xjMJeyWz-921u&ust=1665091785203000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOiiurSEyvoCFQAAAAAdAAAAABAJ (https://www.linkedin.com/in/shivanshu-nigam-9a3223219)</h6>
+<br>[LinkedIn]:(https://www.linkedin.com/in/shivanshu-nigam-9a3223219)</h6>
 
 <hr>
 
