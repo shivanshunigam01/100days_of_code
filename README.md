@@ -51,7 +51,7 @@ You can also contribute🚀 to this repository for new coding files and updates.
 
 
 
-<h3 align="center"><i><q>I came in with near zero programming knowledge and halfway in, I’m quite confident of what I can achieve...#Special thanks to VIT BHOPAL</q></i></h3>
+<h3 align="center"><i><q>I came in with near zero programming knowledge and halfway in, I’m quite confident of what I can achieve...#Special thanks to VIT BHOPAL#2022MCAROCKS</q></i></h3>
 
 [JAVA]: https://img.shields.io/badge/java-F8981C?style=for-the-badge&logo=java&logoColor=0456F3
 [JAVA-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
