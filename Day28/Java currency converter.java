@@ -1,7 +1,7 @@
 /*Given a double-precision number,payment , denoting an amount of money,
 use the NumberFormat class' getCurrencyInstance method to convert payment into the US, Indian, Chinese, and French currency formats. 
 Then print the formatted values as follows:
-/*
+*/
 import java.util.*;
 import java.text.*;
 
