@@ -17,13 +17,13 @@ class StackDemo {
         Stack<String> stack2 = new Stack<String>();
   
         // pushing the elements
-        stack1.push(4);
-        stack1.push("All");
-        stack1.push("Geeks");
+        stack1.push(0);
+        stack1.push("A");
+        stack1.push("B");
   
-        stack2.push("Geeks");
-        stack2.push("For");
-        stack2.push("Geeks");
+        stack2.push("AA");
+        stack2.push("BB");
+        stack2.push("CC");
   
           // Printing the Stack Elements
         System.out.println(stack1);
