@@ -7,12 +7,7 @@ import java.util.*;
 public class Solution {
 	
 	public static void main(String [] args){
-		/*FileReader fr = null;
-		try {
-			fr = new FileReader("/Users/pkahrl/Documents/eclipse-workspace/Comp/src/kahrl/prob1/input.txt");
-		} catch (FileNotFoundException e) {
-			e.printStackTrace();
-		}
+		
 		Scanner in = new Scanner(fr);*/
 		Scanner in = new Scanner(System.in);
 		reduceString(in.nextLine());
